@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<head>
+	<title>My Budgeting Site</title>
+</head>
+<body>
+	<h1>My Budget</h1>
+	<div data-ng-app="BudgApp" data-ng-controller="BudgControl">
+		<h2>Current balance: <span data-ng-bind="total"></span></h2>
+		<table border="1">
+		<tr>
+				<td><input reuired type="date" data-ng-model="trDate"></td>
+				<td><input required type="text" data-ng-model="trDescription"></td>
+				<td><input required type="number" data-ng-model="trAmount"></td>
+				<td>
+					<form required>
+						<input type="radio" name="trRadio" checked="checked" value="deb" data-ng-model="trRad" />Debit
+						<input type="radio" name="trRadio" value="cred" data-ng-model="trRad" />Credit
+					</form>
+				</td>
+				<td><input type="button" value="+" data-ng-click="addTransaction()"></td>
+		</tr>
+		<tr>
+			<th>Date</th>
+			<th>Description</th>
+			<th>Debit</th>
+			<th>Credit</th>
+		</tr>
+		<tr data-ng-repeat="each in myTransactions">
+			<td data-ng-bind="each.date | date"></td>
+			<td data-ng-bind="each.desc"></td>
+			<td data-ng-bind="each.deb | number" data-ng-click="changeTrType($index)"></td>
+			<td data-ng-bind="each.cred | number" data-ng-click="changeTrType($index)"></td>
+			<td><input type="button" value="Delete" data-ng-click="deleteItem($index)"></td>
+		</tr>
+		</table>
+	</div>
+	<script src="main.js" charset="utf-8"></script>
+</body>
+</html>
