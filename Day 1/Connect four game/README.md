@@ -18,11 +18,11 @@ YOU ARE NOW READY! GO AND HAVE FUN WITH THE GAME💯
 <br>
 
 <h3>Contributors</h3>
-<li>
+
   <ul>
-      <item>▪ Arunima Singh </item>
-      <item>▪ </item>
-      <item>▪ </item>
-      <item>▪ </item>
+      <item>▪ Arunima Singh </item><br>
+      <item>▪ </item><br>
+      <item>▪ </item><br>
+      <item>▪ </item><br>
   </ul>
-</li>
+
