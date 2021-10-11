@@ -1,4 +1,4 @@
-<h2>#Learn about API</h2>
+<h2>#Finance Manager</h2>
 It manages your finances by keep a record of your current balance after every record you put.
 <br>
 <hr style="dotted">
