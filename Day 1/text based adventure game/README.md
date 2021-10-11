@@ -17,8 +17,8 @@ It  is a adventure game which is played with the help of commands. You enter in 
 
 <h3>Contributors:</h3>
 <ul>
-      <li>Arunima Singh </li><br>
-      <li>Sankalp Swarup</li><br>
+      <li>Arunima Singh </li>
+      <li>Sankalp Swarup</li>
 <!--       <li>▪ </li><br>
       <li>▪ </li><br> -->
 </ul>
