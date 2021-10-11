@@ -16,8 +16,8 @@ It manages your finances by keep a record of your current balance after every re
 
 <h3>Contributors:</h3>
 <ul>
-      <li>▪ Arunima Singh </li><br>
-      <li>▪ </li><br>
-      <li>▪ </li><br>
-      <li>▪ </li><br>
+      <li>Arunima Singh </li><br>
+      <li>Sankalp Swarup</li><br>
+<!--       <li>▪ </li><br>
+      <li>▪ </li><br> -->
 </ul>
