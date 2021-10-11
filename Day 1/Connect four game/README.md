@@ -11,7 +11,8 @@
 👉 Each player gets a color and has to make a pile of his color without any interruption  of other color.<br>
 👉 Once its done, the player wins and the winner is announced at the right bottom of the page.<br>
 
-YOU ARE NOW READY! GO AND HAVE FUN WITH THE GAME💯
+<br><br>
+<h4><b>YOU ARE NOW READY! GO AND HAVE FUN WITH THE GAME💯</b></h4>
 
 <br>
 <hr style="dashed">
