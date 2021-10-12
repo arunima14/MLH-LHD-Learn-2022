@@ -1,4 +1,4 @@
-<h2># FlappyBirds-simple</h2>
+<h2># FlappyBirds-Game</h2>
 Flappy Birds -  made using javascript 
 
 <br>
